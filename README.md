@@ -24,7 +24,27 @@ Manobal is a student assessment program that uses multiple methods to measure st
 - Voice Modulation Analysis: The software also includes voice analysis that can detect changes in students' voice patterns. Changes in voice, pitch, and speech rate may be indicative of stress, anxiety, or other stressors.
 - Physical and fitness data: Manobal also integrates with Google Fit API to collect students' physical and fitness data. This information can provide insight into students' health and wellbeing, which can help identify and address mental health issues.
 
+### Benefits of Manobal
 
+Manobal offers several benefits to students, educational institutions, and policymakers.
+
+#### Students: 
+Manobal can help students to:
+Identify and address mental health issues early on
+Develop coping mechanisms for stress and anxiety
+Improve their overall mental well-being
+Thrive academically and personally
+
+#### Educational institutions: 
+Manobal can help educational institutions to:
+Better understand the mental health needs of their students
+Develop more effective student support programs and policies
+Create a more supportive and inclusive learning environment
+
+#### Policymakers: 
+Manobal can help policymakers to:
+Develop informed policies that address the mental health challenges faced by students
+Allocate resources more effectively to support student mental health programs
 
 ---
 
@@ -37,21 +57,11 @@ Alternatively, you can go into the 'presentations' directory for the project' de
 
 ---
 
-## Contributing
+## Deplyment
 
-Whether it is a small documentation correction, bug fix or a new feature, contributions are highly appreciated. It's never a fun experience to have your pull request declined after investing a lot of time and effort into a new feature. To avoid this from happening, we request that contributors create a feature request to first discuss any significant new ideas. Please check with us before spending too much time, only to find out later that someone else is already working on a similar feature.
+Manobal is currently under development and is deployed over at Vercel. You can view the live website [here](https://sih-23-peach.vercel.app/).
 
-`main` branch is the current working branch. Please send your PR's to `main` branch, making sure that it builds on your local system successfully. Also, please make sure all the conflicts are resolved.
-
-**Note**: Contribution are welcome only after completion of SIH. No PRs from others will be accept till then.
-
----
-
-## License
-
-Manobal is licensed for use under the MIT license; you may not use this file except in compliance with the License. To review the license, please click [here](LICENSE).
-
----
+**Do note that due to being under active development, Manobal currently requires a user ID to be authorized by devs before they're able to sign in. This will be rectified in the future with release of complete versions.**
 
 <h2 align="center"> SIH 2023 Project Repository </h2>
 
