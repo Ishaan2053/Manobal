@@ -76,7 +76,7 @@ yarn start
 pnpm start
 ```
 
-Open [http://localhost:5173](http://localhost:5173) with your browser to see the result.
+Open [http://localhost:5173](http://localhost:3000) with your browser to see the result.
 You can start editing the page by modifying `src/app.jsx`. The page auto-updates as you edit the file.
 
 - Run the build using
@@ -88,7 +88,7 @@ npm run build
 ---
 
 ## Project Showcase
-You can review the project's presentation [here](https://github.com/Ishaan2053/Manobal/files/12804238/underCTRL.1.pdf).
+You can review the project's presentation [here](https://github.com/Ishaan2053/Manobal/files/12804238/underCTRL.1.pdf). Alternatively, you can go into the 'presentations' directory for a full demonstration of the project.
 
 ---
 
